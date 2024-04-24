@@ -9,11 +9,13 @@ Plugin de AWS que utilizo, tiene los implementado estos modulos del *sdk de AWS*
 ### Pd: Parte del tutorial donde se añade la carpeta *AWSSDK* como modulo de depndencia
 Navigate to your Project’s Build.cs file (should be in a location like: [ProjectName]\Source\[ProjectName]\[ProjectName].Build.cs). Add the AWS SDK Module you created earlier as a dependency (You will see below I added “AWSSDK” in the list) and add the bEnableUndefinedIdentifierWarnings = false; line.
 
-ExampleProject.Build.cs
+**ExampleProject.Build.cs**
 
+```cs
 PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AWSSDK" });
 //...
 bEnableUndefinedIdentifierWarnings = false;
+```
 
 ## Links
 - [Tutorial de instalación de módulos para Unreal Engine de AWS.](https://aws.amazon.com/es/blogs/gametech/how-to-integrate-the-aws-c-sdk-with-unreal-engine/)
