@@ -1,7 +1,0 @@
-Navigate to your Project’s Build.cs file (should be in a location like: [ProjectName]\Source\[ProjectName]\[ProjectName].Build.cs). Add the AWS SDK Module you created earlier as a dependency (You will see below I added “AWSSDK” in the list) and add the bEnableUndefinedIdentifierWarnings = false; line.
-
-ExampleProject.Build.cs
-
-PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AWSSDK" });
-//...
-bEnableUndefinedIdentifierWarnings = false;
