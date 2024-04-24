@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.11.311",
 	"FriendlyName": "AWSPlugin",
-	"Description": "AWS's Services by C++: core, kinesis, cognito-identity, lex",
+	"Description": "AWS's Services by C++: core, kinesis, cognito-identity, lex, and lexv2-runtime",
 	"Category": "AWS's Services",
 	"CreatedBy": "AWS",
 	"CreatedByURL": "https://aws.amazon.com/es/",

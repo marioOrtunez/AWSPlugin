@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AWSPlugin-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\marioortunez\Documents\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\marioortunez\Documents\Unreal Projects\MyProject2\Plugins\AWSPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AWSPlugin\Module.AWSPlugin.cpp.obj"
+"C:\Users\marioortunez\Documents\Unreal Projects\MyProject2\Plugins\AWSPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AWSPlugin\Default.rc2.res"
+/OUT:"C:\Users\marioortunez\Documents\Unreal Projects\MyProject2\Plugins\AWSPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\AWSPlugin\UnrealEditor-AWSPlugin-0002.lib"
