@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.11.311",
+	"FriendlyName": "AWSPlugin",
+	"Description": "AWS's Services by C++: core, kinesis, cognito-identity, lex",
+	"Category": "AWS's Services",
+	"CreatedBy": "AWS",
+	"CreatedByURL": "https://aws.amazon.com/es/",
+	"DocsURL": "https://sdk.amazonaws.com/cpp/api/LATEST/root/html/index.html",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/aws/aws-sdk-cpp?tab=readme-ov-file#getting-help",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "AWSPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

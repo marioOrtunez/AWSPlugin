@@ -1,2 +1,9 @@
 # MyAWSPlugin
-Plugin de AWS que utilizó
+Plugin de AWS que utilizo, tiene los implementado estos modulos del *sdk de AWS*:
+- **Core**:El módulo Core es fundamental para el SDK de AWS. Proporciona *funcionalidades básicas* para interactuar con los servicios de AWS, como la autenticación, la configuración de las credenciales y la gestión de solicitudes HTTP. Esencialmente, es el corazón del SDK y es *necesario para utilizar cualquier otro servicio* de AWS.
+- **Kinesis**: Amazon Kinesis es un servicio que te permite *recopilar, procesar y analizar datos en tiempo real*, como streams de datos de logs, eventos, métricas, etc. El módulo Kinesis del SDK de AWS proporciona herramientas para interactuar con los diferentes *componentes de Kinesis*, como *Kinesis Data Streams*, *Kinesis Data Firehose* y *Kinesis Data Analytics*, permitiéndote leer y escribir datos en streams de manera programática.
+- **Cognito-identity**: Amazon Cognito es un servicio de AWS que te permite *agregar autenticación, autorización y gestión de usuarios* a tus aplicaciones de forma sencilla y segura. El módulo Cognito-identity del SDK de AWS te permite interactuar con el servicio de identidad de Cognito, que incluye funciones como la gestión de identidades de usuarios, la autenticación federada con proveedores de identidad como Facebook o Google, y la sincronización de datos entre dispositivos.
+- **Lex**: Amazon Lex es un servicio de AWS que te permite *construir interfaces de conversación* de forma fácil y rápida, utilizando tecnología de *reconocimiento de voz y procesamiento de lenguaje natural (NLP)*. El módulo Lex del SDK de AWS te permite crear y gestionar bots de conversación que pueden interactuar con los usuarios a través de texto o voz, permitiéndote integrar capacidades de *chatbot* en tus aplicaciones.
+
+## Links
+- [Tutorial de instalación de módulos para Unreal Engine de AWS.](https://aws.amazon.com/es/blogs/gametech/how-to-integrate-the-aws-c-sdk-with-unreal-engine/)

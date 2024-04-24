@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marioortunez\\documents\\unreal projects\\myproject2\\plugins\\awsplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\awsplugin\\module.awsplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marioortunez\\documents\\unreal projects\\myproject2\\intermediate\\build\\win64\\x64\\myproject2editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marioortunez\\documents\\unreal projects\\myproject2\\plugins\\awsplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\awsplugin\\definitions.awsplugin.h",
+            "c:\\users\\marioortunez\\documents\\unreal projects\\myproject2\\plugins\\awsplugin\\source\\awsplugin\\private\\awsplugin.cpp",
+            "c:\\users\\marioortunez\\documents\\unreal projects\\myproject2\\plugins\\awsplugin\\source\\awsplugin\\public\\awsplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

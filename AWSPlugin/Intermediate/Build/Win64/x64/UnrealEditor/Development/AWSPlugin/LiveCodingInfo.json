@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AWSPlugin.cpp.obj": [
+			"AWSPlugin.cpp.obj"
+		]
+	}
+}
